@@ -1,136 +1,136 @@
-21130,English 9,A; D; E; G; H,
-21140,English 10,C,
-21140,English 10,A; E; F; G,
-31196,AP Language,A; E; F; G,
-21150,English 11 EL,E; F,
-21150,English 11,A; C; D; E; G,                           
-31195,AP Literature,A; C; D; E; G,
-21160,English 12,A; B; D; E; G,
-21207,Journalism,G,
-26608,Capstone Seminar,D,
-,,,
-22210,World Geography EL,B,
-22212,Economics & Pers. Finance,D; E; F; H,
-22212,Economics & Pers. Finance EL,D,
-22216,World History,B; C; D; E; G,
-32399,AP Modern Europe,B,
-22360,VA/US History ,D,
-22360,VA/US History EL,C,
-32319,AP VA/US History,A; B; F; G,
-22440,US/VA Government EL,G,
-22440,US/VA Government,A; D; E; F,
-32445,AP US Gov.,A; D; E; F,
-32445,AP US Gov Seminar,C,
-22500,Sociology ,G,
-32902,AP Psychology, A; B; E; G,
-32371,AP African American Studies,C,
-,,,
-23131,Pre-Algebra (EL),E,
-23132,Algebra I (EL),D; E,
-23130,Algebra I ,F,
-23145,Algebra Functions & Data Analysis (AFDA),E,
-23145,Algebra Functions & Data Analysis (AFDA) - EL ,F,
-23143,Geometry,B; C; H,
-23143,Geometry EL,A,
-23141,Geometry Intensified,C,
-23135,Algebra II ,E; G,
-23136,Algebra II Intesified,E; F; G,
-23162,Precalculus/Trig.,A; B ,
-23164,AP Precalculus,A; B,
-33192,AP Statistics ,A; C,
-33177,AP Calculus AB,F,
-33179,AP Calculus BC,A; B,
-23195,Data Science,F,
-23195,Data Science - EL,D,
-93178W,Multivariable Calculus,G,
-26639,Computer Science ,C,
-33185,AP Computer Science,PM,
-,,,
-24210,Earth Space,A; B,
-24310,Biology,A; B; C; D; G,
-24312,Biology EL,E ,
-34370/34371,AP Biology,F; G,
-24410,Chemistry,"A; B, C; D",
-34470/34471,AP Chemistry,F; G,
-24510,Physics EL,G,
-24500,Prin. of Physics,B ,
-24510,Physics,D; E; F; G,
-34570,AP Physics (single block),C,
-34270,AP Environmental Science,E; F,
-,,,
-,,,
-25110,French I,D,
-25120,French II,A,
-25130,French III,F,
-25140,French IV,G,
-25150,French V,B,
-35165,French AP,B,
-,,,
-25510,Spanish I,D; G,
-25520,Spanish II,A; B,
-25530,Spanish III,C,
-25530,Spanish III,F,
-25540,Spanish IV,A; G,
-25550,Spanish V ,C,
-25560,Adv. Stud. Spanish  ,F,
-35565,Spanish AP Language,B,
- , , ,
-25310,Latin I,D,
-25320,Latin II,A,
-25330,Latin III,F,
-25330,Latin IV,G,
-,Latin V,B,
-35350,Latin AP,B,
-,,,
-,,,
-25990,American Sign Language I,A,
-25995,American Sign Language II,B,
-25997,American Sign Language III,C,
-25992,American Sign Language IV,C,
-,,,
-27300,Health/PE 9,A; B; F,
-27400,Health/PE 10,C; D; E,
-,,,
-29263,Treble Concert Choir  ,B,
-29266, Basso Concert Choir   ,E,
-29285, Camerata,C,
-29289,Chamber Singers,D,
-29225,Music Theory ,C,
-39226,AP Music Theory,C,
-,,,
-29251,Jazz Band,PM,
-29234,Advanced Band (Wind. Ens.),D,
-,Beginning Band,F,
-29244,String Orchestra,E,
-29225, Song Writing ,H/PM,
-,,,
-21400,HS Theatre Arts  I,D,
-21415,HS Theatre Arts II,D,
-21425,HS Theatre Arts III,D,
-21430,HS Theatre Arts  IV,D,
-,,,
-21430,HS Directing,PM,
-21435,HS TechnicalTheatre ,B; C,
-,,,
-21178,Film ,D,
-21178,Film Directing,B,
-21178,Film Analysis, F  ,
-29120,Art I,A,
-29163,Printmaking,B,
-29130,Art II,B,
-29140,Art III,C,
-29110,Art IV,C,
-39149,AP Studio Art ,D,
-29193,Photo I,F; G,
-29194,Photo II,F; G,
-29195,Photo III,F; G,
-29196,Photo IV,PM,
-,,,
-20028,Instructional Studies,F; G; H,
-20028,Instructional Studies,B; E; G; H,
-20028,Instructional Studies,E; F; H,
-20028,Instructional Studies,B; C ,
-,,,
-,,,
-20028,Instructional Studies,D; F; H,
-20028,Instructional Studies,E; G; H,
+English 9,A; D; E; G; H
+English 10,C
+English 10,A; E; F; G
+AP Language,A; E; F; G
+English 11 EL,E; F
+English 11,A; C; D; E; G
+AP Literature,A; C; D; E; G
+English 12,A; B; D; E; G
+Journalism,G
+Capstone Seminar,D
+,
+World Geography EL,B
+Economics & Pers. Finance,D; E; F; H
+Economics & Pers. Finance EL,D
+World History,B; C; D; E; G
+AP Modern Europe,B
+"VA/US History ",D
+VA/US History EL,C
+AP VA/US History,A; B; F; G
+US/VA Government EL,G
+US/VA Government,A; D; E; F
+AP US Gov.,A; D; E; F
+AP US Gov Seminar,C
+"Sociology ",G
+AP Psychology," A; B; E; G"
+AP African American Studies,C
+,
+Pre-Algebra (EL),E
+Algebra I (EL),D; E
+"Algebra I ",F
+Algebra Functions & Data Analysis (AFDA),E
+"Algebra Functions & Data Analysis (AFDA) - EL ",F
+Geometry,B; C; H
+Geometry EL,A
+Geometry Intensified,C
+"Algebra II ",E; G
+Algebra II Intesified,E; F; G
+Precalculus/Trig.,"A; B "
+AP Precalculus,A; B
+"AP Statistics ",A; C
+AP Calculus AB,F
+AP Calculus BC,A; B
+Data Science,F
+Data Science - EL,D
+Multivariable Calculus,G
+"Computer Science ",C
+AP Computer Science,PM
+,
+Earth Space,A; B
+Biology,A; B; C; D; G
+Biology EL,"E "
+AP Biology,F; G
+Chemistry,"A; B, C; D"
+AP Chemistry,F; G
+Physics EL,G
+Prin. of Physics,"B "
+Physics,D; E; F; G
+AP Physics (single block),C
+AP Environmental Science,E; F
+,
+,
+French I,D
+French II,A
+French III,F
+French IV,G
+French V,B
+French AP,B
+,
+Spanish I,D; G
+Spanish II,A; B
+Spanish III,C
+Spanish III,F
+Spanish IV,A; G
+"Spanish V ",C
+"Adv. Stud. Spanish  ",F
+Spanish AP Language,B
+" "," "
+Latin I,D
+Latin II,A
+Latin III,F
+Latin IV,G
+Latin V,B
+Latin AP,B
+,
+,
+American Sign Language I,A
+American Sign Language II,B
+American Sign Language III,C
+American Sign Language IV,C
+,
+Health/PE 9,A; B; F
+Health/PE 10,C; D; E
+,
+"Treble Concert Choir  ",B
+" Basso Concert Choir   ",E
+" Camerata",C
+Chamber Singers,D
+"Music Theory ",C
+AP Music Theory,C
+,
+Jazz Band,PM
+Advanced Band (Wind. Ens.),D
+Beginning Band,F
+String Orchestra,E
+" Song Writing ",H/PM
+,
+HS Theatre Arts  I,D
+HS Theatre Arts II,D
+HS Theatre Arts III,D
+HS Theatre Arts  IV,D
+,
+HS Directing,PM
+"HS TechnicalTheatre ",B; C
+,
+"Film ",D
+Film Directing,B
+Film Analysis," F  "
+Art I,A
+Printmaking,B
+Art II,B
+Art III,C
+Art IV,C
+"AP Studio Art ",D
+Photo I,F; G
+Photo II,F; G
+Photo III,F; G
+Photo IV,PM
+,
+Instructional Studies,F; G; H
+Instructional Studies,B; E; G; H
+Instructional Studies,E; F; H
+Instructional Studies,"B; C "
+,
+,
+Instructional Studies,D; F; H
+Instructional Studies,E; G; H
