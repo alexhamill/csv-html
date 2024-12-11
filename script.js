@@ -5,7 +5,7 @@ async function fetchCSV() {
   console.log(csvData);
   const rows = csvData.trim().split('\n').map(row => row.split(','));
 
-  
+
   const classData = {};
   rows.forEach(row => {
     const classCode = row[0];
