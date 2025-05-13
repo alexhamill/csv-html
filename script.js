@@ -1,18 +1,44 @@
+
+
 async function fetchCSV() {
   const response = await fetch('https://raw.githubusercontent.com/alexhamill/csv-html/refs/heads/main/schdule.csv');
-  //const response = await fetch('https://raw.githubusercontent.com/ArenaPlanning/ArenaPlanning.github.io/refs/heads/main/schedule.csv');
   const csvData = await response.text();
   console.log(csvData);
-  const rows = csvData.trim().split('\n').map(row => row.split(','));
 
+  const rows = csvData.trim().split('\n');
+  console.log(rows);
 
-  const classData = {};
-  rows.forEach(row => {
-    const classCode = row[0];
-    const periods = row[1].split(';');
-    classData[classCode] = periods;
+  const classData = rows.map(row => {
+    const [name, blocks] = row.split(',');
+    return {
+      name: name.trim(),
+      blocks: blocks.split(';').map(block => block.trim())
+    };
   });
   console.log(classData);
   return classData;
 }
-fetchCSV();
+
+function makeDiv(data){
+  if (Array.isArray(data)) {
+    data.forEach(element => {
+      let p = document.createElement('p');
+      p.innerHTML = element.name  + element.blocks.join(', ');
+      document.body.appendChild(p); // Append the <p> element to the body or another parent element
+      console.log("made");
+    });
+  } else {
+    console.error("Invalid data: Expected an array, but got", data);
+  }
+}
+
+(async function() {
+  let data = await fetchCSV();
+  console.log(data);
+  makeDiv(data);
+})();
+
+
+
+
+
